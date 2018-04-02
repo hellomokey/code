@@ -1,0 +1,5 @@
+git开始
+1. cat ~/.ssh/id_rsa.pub
+2. copy the key, including the "ssh-rsa" but *excluding your computer name at the end*
+3. Go to: https://github.com/settings/ssh
+4. Add your SSH key
